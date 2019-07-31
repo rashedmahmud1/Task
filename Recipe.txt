@@ -6,4 +6,7 @@ Kheerr
 Pasta
 Chicken Curry
 
+Fish Curry
+Egg Curry
+
 Thank You.
